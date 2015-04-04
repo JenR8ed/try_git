@@ -1,0 +1,2946 @@
+{
+  "title": "Roles",
+  "ideas": {
+    "1": {
+      "title": "Employee",
+      "ideas": {
+        "1": {
+          "title": "Home",
+          "ideas": {
+            "1": {
+              "title": "1st Time ESPP Participant Self-Enrollment",
+              "id": 4,
+              "attr": {
+                "style": {}
+              }
+            },
+            "2": {
+              "title": "Exercise Wizard",
+              "id": 5,
+              "attr": {
+                "style": {}
+              }
+            },
+            "3": {
+              "title": "ESPP Wizard",
+              "id": 6,
+              "attr": {
+                "style": {}
+              }
+            },
+            "4": {
+              "title": "To Do List",
+              "id": 7,
+              "attr": {
+                "style": {}
+              }
+            }
+          },
+          "id": 3,
+          "attr": {
+            "style": {}
+          }
+        },
+        "2": {
+          "title": "My Portfolio",
+          "ideas": {
+            "1": {
+              "title": "Options",
+              "id": 9,
+              "attr": {
+                "style": {}
+              }
+            },
+            "2": {
+              "title": "Restricted Awards",
+              "id": 10,
+              "attr": {
+                "style": {}
+              }
+            }
+          },
+          "id": 8,
+          "attr": {
+            "style": {}
+          }
+        },
+        "3": {
+          "title": "Transaction History",
+          "ideas": {
+            "1": {
+              "title": "Options",
+              "id": 12,
+              "attr": {
+                "style": {}
+              }
+            },
+            "2": {
+              "title": "Restricted Awards",
+              "id": 13,
+              "attr": {
+                "style": {}
+              }
+            }
+          },
+          "id": 11,
+          "attr": {
+            "style": {}
+          }
+        },
+        "4": {
+          "title": "Statements",
+          "ideas": {
+            "1": {
+              "title": "Portfolio Statement",
+              "id": 15,
+              "attr": {
+                "style": {}
+              }
+            },
+            "2": {
+              "title": "Transaction Statements",
+              "id": 16,
+              "attr": {
+                "style": {}
+              }
+            },
+            "3": {
+              "title": "Tax Forms",
+              "id": 17,
+              "attr": {
+                "style": {}
+              }
+            }
+          },
+          "id": 14,
+          "attr": {
+            "style": {}
+          }
+        },
+        "5": {
+          "title": "Document Library",
+          "id": 18,
+          "attr": {
+            "style": {}
+          }
+        },
+        "6": {
+          "title": "My Profile",
+          "id": 19,
+          "attr": {
+            "style": {}
+          }
+        }
+      },
+      "id": 2,
+      "attr": {
+        "style": {
+          "background": "#ffcc00"
+        },
+        "collapsed": true,
+        "progress": "1"
+      }
+    },
+    "2": {
+      "title": "Participant ",
+      "ideas": {
+        "1": {
+          "title": "Home",
+          "id": 21,
+          "attr": {
+            "style": {}
+          }
+        },
+        "2": {
+          "title": "My Portfolio",
+          "id": 22,
+          "attr": {
+            "style": {}
+          }
+        },
+        "3": {
+          "title": "Transaction History",
+          "id": 23,
+          "attr": {
+            "style": {}
+          }
+        },
+        "4": {
+          "title": "Statements",
+          "id": 24,
+          "attr": {
+            "style": {}
+          }
+        },
+        "5": {
+          "title": "Document Library",
+          "id": 25,
+          "attr": {
+            "style": {}
+          }
+        },
+        "6": {
+          "title": "My Profile",
+          "id": 26,
+          "attr": {
+            "style": {}
+          }
+        }
+      },
+      "id": 20,
+      "attr": {
+        "style": {
+          "background": "#ffcc00"
+        },
+        "collapsed": true,
+        "progress": "1"
+      }
+    },
+    "3": {
+      "title": "Advisor ",
+      "ideas": {
+        "1": {
+          "title": "Participant Accounts",
+          "id": 28,
+          "attr": {
+            "style": {}
+          }
+        },
+        "2": {
+          "title": "Issuer Info",
+          "id": 29,
+          "attr": {
+            "style": {}
+          }
+        },
+        "3": {
+          "title": "Personal Data",
+          "id": 30,
+          "attr": {
+            "style": {}
+          }
+        },
+        "4": {
+          "title": "Transactions",
+          "id": 31,
+          "attr": {
+            "style": {}
+          }
+        },
+        "5": {
+          "title": "Reports",
+          "id": 32,
+          "attr": {
+            "style": {}
+          }
+        }
+      },
+      "id": 27,
+      "attr": {
+        "style": {
+          "background": "#ffcc00"
+        },
+        "collapsed": true,
+        "progress": "1"
+      }
+    },
+    "4": {
+      "title": "Security Admin ",
+      "ideas": {
+        "1": {
+          "title": "Direct User Assignment",
+          "id": 34,
+          "attr": {
+            "style": {}
+          }
+        },
+        "2": {
+          "title": "User Accounts",
+          "id": 35,
+          "attr": {
+            "style": {}
+          }
+        }
+      },
+      "id": 33,
+      "attr": {
+        "style": {
+          "background": "#ffcc00"
+        },
+        "collapsed": true,
+        "progress": "1"
+      }
+    },
+    "5": {
+      "title": "Transfer Agent ",
+      "ideas": {
+        "1": {
+          "title": "Option / SAR Exercises",
+          "id": 37,
+          "attr": {
+            "style": {}
+          }
+        },
+        "2": {
+          "title": "Personal Data",
+          "id": 38,
+          "attr": {
+            "style": {}
+          }
+        }
+      },
+      "id": 36,
+      "attr": {
+        "style": {
+          "background": "#ffcc00"
+        },
+        "collapsed": true,
+        "progress": "1"
+      }
+    },
+    "6": {
+      "title": "Batch Reporting Only ",
+      "ideas": {
+        "1": {
+          "title": "Batch Reporting",
+          "id": 40,
+          "attr": {
+            "style": {}
+          }
+        },
+        "2": {
+          "title": "Help",
+          "id": 41,
+          "attr": {
+            "style": {}
+          }
+        }
+      },
+      "id": 39,
+      "attr": {
+        "style": {
+          "background": "#ffcc00"
+        },
+        "collapsed": true,
+        "progress": "1"
+      }
+    },
+    "7": {
+      "title": "Brokerage Operations ",
+      "ideas": {
+        "1": {
+          "title": "Participant Account Details",
+          "id": 43,
+          "attr": {
+            "style": {}
+          }
+        },
+        "2": {
+          "title": "Option / SAR Exercises",
+          "id": 44,
+          "attr": {
+            "style": {}
+          }
+        },
+        "3": {
+          "title": "Orders",
+          "id": 45,
+          "attr": {
+            "style": {}
+          }
+        },
+        "4": {
+          "title": "Reports",
+          "id": 46,
+          "attr": {
+            "style": {}
+          }
+        }
+      },
+      "id": 42,
+      "attr": {
+        "style": {
+          "background": "#ffcc00"
+        },
+        "collapsed": true,
+        "progress": "1"
+      }
+    },
+    "8": {
+      "title": "Customer Service Rep ",
+      "ideas": {
+        "1": {
+          "title": "Home",
+          "id": 48,
+          "attr": {
+            "style": {}
+          }
+        },
+        "2": {
+          "title": "My Portfolio",
+          "id": 49,
+          "attr": {
+            "style": {}
+          }
+        },
+        "3": {
+          "title": "Transaction History",
+          "id": 50,
+          "attr": {
+            "style": {}
+          }
+        },
+        "4": {
+          "title": "Statements",
+          "id": 51,
+          "attr": {
+            "style": {}
+          }
+        },
+        "5": {
+          "title": "Document Library",
+          "id": 52,
+          "attr": {
+            "style": {}
+          }
+        },
+        "6": {
+          "title": "My Profile",
+          "id": 53,
+          "attr": {
+            "style": {}
+          }
+        }
+      },
+      "id": 47,
+      "attr": {
+        "style": {
+          "background": "#ffcc00"
+        },
+        "collapsed": true,
+        "progress": "1"
+      }
+    },
+    "9": {
+      "title": "Reports Only ",
+      "ideas": {
+        "1": {
+          "title": "Reports",
+          "id": 55,
+          "attr": {
+            "style": {}
+          }
+        },
+        "2": {
+          "title": "Help",
+          "id": 56,
+          "attr": {
+            "style": {}
+          }
+        }
+      },
+      "id": 54,
+      "attr": {
+        "style": {
+          "background": "#ffcc00"
+        },
+        "collapsed": true,
+        "progress": "1"
+      }
+    },
+    "10": {
+      "title": "Attorney ",
+      "ideas": {
+        "1": {
+          "title": "Reports",
+          "id": 58,
+          "attr": {
+            "style": {}
+          }
+        }
+      },
+      "id": 57,
+      "attr": {
+        "style": {
+          "background": "#ffcc00"
+        },
+        "collapsed": true,
+        "progress": "1"
+      }
+    },
+    "11": {
+      "title": "Banker ",
+      "ideas": {
+        "1": {
+          "title": "Capitalization Reports",
+          "id": 60,
+          "attr": {
+            "style": {}
+          }
+        }
+      },
+      "id": 59,
+      "attr": {
+        "style": {
+          "background": "#ffcc00"
+        },
+        "collapsed": true,
+        "progress": "1"
+      }
+    },
+    "12": {
+      "title": "Broker CSR ",
+      "ideas": {
+        "1": {
+          "title": "Home",
+          "id": 62,
+          "attr": {
+            "style": {}
+          }
+        },
+        "2": {
+          "title": "My Portfolio",
+          "id": 63,
+          "attr": {
+            "style": {}
+          }
+        },
+        "3": {
+          "title": "Transaction History",
+          "id": 64,
+          "attr": {
+            "style": {}
+          }
+        },
+        "4": {
+          "title": "Statements",
+          "id": 65,
+          "attr": {
+            "style": {}
+          }
+        },
+        "5": {
+          "title": "Document Library",
+          "id": 66,
+          "attr": {
+            "style": {}
+          }
+        },
+        "6": {
+          "title": "My Profile",
+          "id": 67,
+          "attr": {
+            "style": {}
+          }
+        }
+      },
+      "id": 61,
+      "attr": {
+        "style": {
+          "background": "#ffcc00"
+        },
+        "collapsed": true,
+        "progress": "1"
+      }
+    },
+    "13": {
+      "title": "Centerline Reporting ",
+      "ideas": {
+        "1": {
+          "title": "Reports",
+          "id": 69,
+          "attr": {
+            "style": {}
+          }
+        }
+      },
+      "id": 68,
+      "attr": {
+        "style": {
+          "background": "#ffcc00"
+        },
+        "collapsed": true,
+        "progress": "1"
+      }
+    },
+    "14": {
+      "title": "FAS 123 Setup ",
+      "ideas": {
+        "1": {
+          "title": "FAS123R",
+          "id": 71,
+          "attr": {
+            "style": {}
+          }
+        },
+        "2": {
+          "title": "Help",
+          "id": 72,
+          "attr": {
+            "style": {}
+          }
+        }
+      },
+      "id": 70,
+      "attr": {
+        "style": {
+          "background": "#ffcc00"
+        },
+        "collapsed": true,
+        "progress": "1"
+      }
+    },
+    "15": {
+      "title": "HR  Admin ",
+      "ideas": {
+        "1": {
+          "title": "Participants",
+          "id": 74,
+          "attr": {
+            "style": {}
+          }
+        },
+        "2": {
+          "title": "Transactions",
+          "id": 75,
+          "attr": {
+            "style": {}
+          }
+        },
+        "3": {
+          "title": "Reports",
+          "id": 76,
+          "attr": {
+            "style": {}
+          }
+        },
+        "4": {
+          "title": "Help",
+          "id": 77,
+          "attr": {
+            "style": {}
+          }
+        }
+      },
+      "id": 73,
+      "attr": {
+        "style": {
+          "background": "#ffcc00"
+        },
+        "collapsed": true,
+        "progress": "1"
+      }
+    },
+    "21": {
+      "title": "HR with Exercises ",
+      "ideas": {
+        "1": {
+          "title": "Participants",
+          "id": 79,
+          "attr": {
+            "style": {}
+          }
+        },
+        "2": {
+          "title": "Transactions",
+          "id": 80,
+          "attr": {
+            "style": {}
+          }
+        },
+        "3": {
+          "title": "Reports",
+          "id": 81,
+          "attr": {
+            "style": {}
+          }
+        },
+        "4": {
+          "title": "Help",
+          "id": 82,
+          "attr": {
+            "style": {}
+          }
+        }
+      },
+      "id": 78,
+      "attr": {
+        "style": {
+          "background": "#ffcc00"
+        },
+        "collapsed": true,
+        "progress": "1"
+      }
+    },
+    "22": {
+      "title": "LTEIP HR Admin ",
+      "ideas": {
+        "1": {
+          "title": "LTEIP Plan",
+          "id": 84,
+          "attr": {
+            "style": {}
+          }
+        },
+        "2": {
+          "title": "LTEIP Perf Periods",
+          "id": 85,
+          "attr": {
+            "style": {}
+          }
+        },
+        "3": {
+          "title": "LTEIP Payouts",
+          "id": 86,
+          "attr": {
+            "style": {}
+          }
+        },
+        "4": {
+          "title": "LTEIP Awards",
+          "id": 87,
+          "attr": {
+            "style": {}
+          }
+        },
+        "5": {
+          "title": "Reports",
+          "id": 88,
+          "attr": {
+            "style": {}
+          }
+        }
+      },
+      "id": 83,
+      "attr": {
+        "style": {
+          "background": "#ffcc00"
+        },
+        "collapsed": true,
+        "progress": "1"
+      }
+    },
+    "23": {
+      "title": "LTEIP SA Admin ",
+      "ideas": {
+        "1": {
+          "title": "LTEIP Payouts",
+          "id": 90,
+          "attr": {
+            "style": {}
+          }
+        },
+        "2": {
+          "title": "Reports",
+          "id": 91,
+          "attr": {
+            "style": {}
+          }
+        }
+      },
+      "id": 89,
+      "attr": {
+        "style": {
+          "background": "#ffcc00"
+        },
+        "collapsed": true,
+        "progress": "1"
+      }
+    },
+    "24": {
+      "title": "Option Exercise Approval ",
+      "ideas": {
+        "1": {
+          "title": "Option Exercise Approval",
+          "id": 93,
+          "attr": {
+            "style": {}
+          }
+        }
+      },
+      "id": 92,
+      "attr": {
+        "style": {
+          "background": "#ffcc00"
+        },
+        "collapsed": true,
+        "progress": "1"
+      }
+    },
+    "25": {
+      "title": "Payroll ",
+      "ideas": {
+        "1": {
+          "title": "Participants",
+          "id": 95,
+          "attr": {
+            "style": {}
+          }
+        },
+        "2": {
+          "title": "Reports",
+          "id": 96,
+          "attr": {
+            "style": {}
+          }
+        }
+      },
+      "id": 94,
+      "attr": {
+        "style": {
+          "background": "#ffcc00"
+        },
+        "collapsed": true,
+        "progress": "1"
+      }
+    },
+    "26": {
+      "title": "Price Update ",
+      "ideas": {
+        "1": {
+          "title": "Company Securities",
+          "id": 98,
+          "attr": {
+            "style": {}
+          }
+        }
+      },
+      "id": 97,
+      "attr": {
+        "style": {
+          "background": "#ffcc00"
+        },
+        "collapsed": true,
+        "progress": "1"
+      }
+    },
+    "27": {
+      "title": "Proxy/Financial Only ",
+      "ideas": {
+        "1": {
+          "title": "Batch Reporting Console",
+          "id": 100,
+          "attr": {
+            "style": {}
+          }
+        }
+      },
+      "id": 99,
+      "attr": {
+        "style": {
+          "background": "#ffcc00"
+        },
+        "collapsed": true,
+        "progress": "1"
+      }
+    },
+    "28": {
+      "title": "Trader ",
+      "ideas": {
+        "1": {
+          "title": "Personal Data",
+          "id": 102,
+          "attr": {
+            "style": {}
+          }
+        },
+        "2": {
+          "title": "Option / SAR Exercises",
+          "id": 103,
+          "attr": {
+            "style": {}
+          }
+        }
+      },
+      "id": 101,
+      "attr": {
+        "style": {
+          "background": "#ffcc00"
+        },
+        "collapsed": true,
+        "progress": "1"
+      }
+    },
+    "29": {
+      "title": "Accounting Anonymous ",
+      "ideas": {
+        "1": {
+          "title": "FAS123R",
+          "id": 105,
+          "attr": {
+            "style": {}
+          }
+        },
+        "2": {
+          "title": "Reports",
+          "id": 106,
+          "attr": {
+            "style": {}
+          }
+        }
+      },
+      "id": 104,
+      "attr": {
+        "style": {
+          "background": "#ffcc00"
+        },
+        "collapsed": true,
+        "progress": "1"
+      }
+    },
+    "30": {
+      "title": "Group Administrator ",
+      "ideas": {
+        "1": {
+          "title": "Direct User Assignment",
+          "id": 108,
+          "attr": {
+            "style": {}
+          }
+        }
+      },
+      "id": 107,
+      "attr": {
+        "style": {
+          "background": "#ffcc00"
+        },
+        "collapsed": true,
+        "progress": "1"
+      }
+    },
+    "31": {
+      "title": "Implementation Admin ",
+      "ideas": {
+        "1": {
+          "title": "Reports",
+          "id": 110,
+          "attr": {
+            "style": {}
+          }
+        },
+        "2": {
+          "title": "Delete Tool",
+          "id": 111,
+          "attr": {
+            "style": {}
+          }
+        }
+      },
+      "id": 109,
+      "attr": {
+        "style": {
+          "background": "#ffcc00"
+        },
+        "collapsed": true,
+        "progress": "1"
+      }
+    },
+    "32": {
+      "title": "Modeling ",
+      "ideas": {
+        "1": {
+          "title": "Home",
+          "id": 113,
+          "attr": {
+            "style": {},
+            "progress": "1"
+          }
+        }
+      },
+      "id": 112,
+      "attr": {
+        "style": {
+          "background": "#ffcc00"
+        },
+        "progress": "1"
+      }
+    },
+    "-16": {
+      "title": "ESPP GUI Regression",
+      "ideas": {
+        "1": {
+          "title": "Create ESPP Plan",
+          "id": 115,
+          "attr": {
+            "style": {}
+          }
+        },
+        "2": {
+          "title": "Create Offering Period",
+          "id": 116,
+          "attr": {
+            "style": {}
+          }
+        },
+        "3": {
+          "title": "Create Participants",
+          "ideas": {
+            "1": {
+              "title": "Foxy Fox",
+              "id": 118,
+              "attr": {
+                "style": {}
+              }
+            },
+            "2": {
+              "title": "Sassy Snake",
+              "id": 119,
+              "attr": {
+                "style": {}
+              }
+            },
+            "3": {
+              "title": "Single Purchase",
+              "id": 120,
+              "attr": {
+                "style": {}
+              }
+            }
+          },
+          "id": 117,
+          "attr": {
+            "style": {}
+          }
+        },
+        "4": {
+          "title": "Create Volatility",
+          "id": 121,
+          "attr": {
+            "style": {}
+          }
+        },
+        "5": {
+          "title": "Create Forfeiture",
+          "id": 122,
+          "attr": {
+            "style": {}
+          }
+        },
+        "6": {
+          "title": "Create Enrollments",
+          "ideas": {
+            "1": {
+              "title": "Foxy Fox",
+              "id": 124,
+              "attr": {
+                "style": {}
+              }
+            },
+            "2": {
+              "title": "Sassy Snake",
+              "id": 125,
+              "attr": {
+                "style": {}
+              }
+            },
+            "3": {
+              "title": "Single Purchase",
+              "id": 126,
+              "attr": {
+                "style": {}
+              }
+            }
+          },
+          "id": 123,
+          "attr": {
+            "style": {}
+          }
+        },
+        "7": {
+          "title": "Create Contributions",
+          "ideas": {
+            "1": {
+              "title": "Foxy Fox",
+              "id": 128,
+              "attr": {
+                "style": {}
+              }
+            },
+            "2": {
+              "title": "Sassy Snake",
+              "id": 129,
+              "attr": {
+                "style": {}
+              }
+            },
+            "3": {
+              "title": "Single Purchase",
+              "id": 130,
+              "attr": {
+                "style": {}
+              }
+            }
+          },
+          "id": 127,
+          "attr": {
+            "style": {}
+          }
+        },
+        "8": {
+          "title": "Create Salary Info",
+          "ideas": {
+            "1": {
+              "title": "Foxy Fox",
+              "id": 132,
+              "attr": {
+                "style": {}
+              }
+            },
+            "2": {
+              "title": "Sassy Snake",
+              "id": 133,
+              "attr": {
+                "style": {}
+              }
+            },
+            "3": {
+              "title": "Single Purchase",
+              "id": 134,
+              "attr": {
+                "style": {}
+              }
+            }
+          },
+          "id": 131,
+          "attr": {
+            "style": {}
+          }
+        },
+        "9": {
+          "title": "Create Purchase",
+          "id": 135,
+          "attr": {
+            "style": {}
+          }
+        },
+        "10": {
+          "title": "Create Eligibility",
+          "ideas": {
+            "1": {
+              "title": "Foxy Fox",
+              "id": 137,
+              "attr": {
+                "style": {}
+              }
+            },
+            "2": {
+              "title": "Sassy Snake",
+              "id": 138,
+              "attr": {
+                "style": {}
+              }
+            },
+            "3": {
+              "title": "Single Purchase",
+              "id": 139,
+              "attr": {
+                "style": {}
+              }
+            }
+          },
+          "id": 136,
+          "attr": {
+            "style": {}
+          }
+        },
+        "11": {
+          "title": "Create Dispositions",
+          "ideas": {
+            "1": {
+              "title": "Foxy Fox",
+              "id": 141,
+              "attr": {
+                "style": {}
+              }
+            },
+            "2": {
+              "title": "Sassy Snake",
+              "id": 142,
+              "attr": {
+                "style": {}
+              }
+            },
+            "3": {
+              "title": "Single Purchase",
+              "id": 143,
+              "attr": {
+                "style": {}
+              }
+            }
+          },
+          "id": 140,
+          "attr": {
+            "style": {}
+          }
+        },
+        "12": {
+          "title": "Verify Accounting Reports",
+          "id": 144,
+          "attr": {
+            "style": {}
+          }
+        },
+        "13": {
+          "title": "Verify Activity Reports",
+          "id": 145,
+          "attr": {
+            "style": {}
+          }
+        },
+        "14": {
+          "title": "Accounting Reports",
+          "ideas": {
+            "1": {
+              "title": "Award Detail",
+              "ideas": {
+                "1": {
+                  "title": "ESPP Award Detail",
+                  "id": 148,
+                  "attr": {
+                    "style": {}
+                  }
+                }
+              },
+              "id": 147,
+              "attr": {
+                "style": {}
+              }
+            },
+            "2": {
+              "title": "Common Equivalents",
+              "ideas": {
+                "1": {
+                  "title": "Common Equivalents Detail - ESPP",
+                  "id": 150,
+                  "attr": {
+                    "style": {}
+                  }
+                }
+              },
+              "id": 149,
+              "attr": {
+                "style": {}
+              }
+            },
+            "3": {
+              "title": "Deferred Tax - Acct Entries",
+              "ideas": {
+                "1": {
+                  "title": "Accounting Entries - ESPP",
+                  "id": 152,
+                  "attr": {
+                    "style": {}
+                  }
+                }
+              },
+              "id": 151,
+              "attr": {
+                "style": {}
+              }
+            },
+            "4": {
+              "title": "Deferred Tax - ESPP",
+              "ideas": {
+                "1": {
+                  "title": "Def Tax - Compensation Expense by Tax Entity",
+                  "id": 154,
+                  "attr": {
+                    "style": {}
+                  }
+                },
+                "2": {
+                  "title": "Def Tax - Disqualifying Dispositions by Tax Entity",
+                  "id": 155,
+                  "attr": {
+                    "style": {}
+                  }
+                },
+                "3": {
+                  "title": "Def Tax - ESPP Purchases by Tax Entity",
+                  "id": 156,
+                  "attr": {
+                    "style": {}
+                  }
+                },
+                "4": {
+                  "title": "Def Tax - ESPP Settlement Comp Expense True Up",
+                  "id": 157,
+                  "attr": {
+                    "style": {}
+                  }
+                },
+                "5": {
+                  "title": "Deferred Tax - ESPP - Forfeiture",
+                  "id": 158,
+                  "attr": {
+                    "style": {}
+                  }
+                }
+              },
+              "id": 153,
+              "attr": {
+                "style": {}
+              }
+            },
+            "5": {
+              "title": "Expense Accrual - ESPP",
+              "ideas": {
+                "1": {
+                  "title": "ESPP Expense Accrual - by Branch",
+                  "id": 160,
+                  "attr": {
+                    "style": {}
+                  }
+                },
+                "2": {
+                  "title": "ESPP Expense Accrual - by Country",
+                  "id": 161,
+                  "attr": {
+                    "style": {}
+                  }
+                },
+                "3": {
+                  "title": "ESPP Expense Accrual - by Department",
+                  "id": 162,
+                  "attr": {
+                    "style": {}
+                  }
+                },
+                "4": {
+                  "title": "ESPP Expense Accrual - by Subsidiary",
+                  "id": 163,
+                  "attr": {
+                    "style": {}
+                  }
+                },
+                "5": {
+                  "title": "ESPP Expense Accrual - by Tax Entity",
+                  "id": 164,
+                  "attr": {
+                    "style": {}
+                  }
+                }
+              },
+              "id": 159,
+              "attr": {
+                "style": {}
+              }
+            },
+            "6": {
+              "title": "Fair Value Details - ESPP",
+              "ideas": {
+                "1": {
+                  "title": "Fair Value Details ESPP by Branch Location",
+                  "id": 166,
+                  "attr": {
+                    "style": {}
+                  }
+                },
+                "2": {
+                  "title": "Fair Value Details ESPP by Country",
+                  "id": 167,
+                  "attr": {
+                    "style": {}
+                  }
+                },
+                "3": {
+                  "title": "Fair Value Details ESPP by Department",
+                  "id": 168,
+                  "attr": {
+                    "style": {}
+                  }
+                },
+                "4": {
+                  "title": "Fair Value Details ESPP by Subsidiary",
+                  "id": 169,
+                  "attr": {
+                    "style": {}
+                  }
+                },
+                "5": {
+                  "title": "Fair Value Details ESPP by Tax Entity",
+                  "id": 170,
+                  "attr": {
+                    "style": {}
+                  }
+                }
+              },
+              "id": 165,
+              "attr": {
+                "style": {}
+              }
+            }
+          },
+          "id": 146,
+          "attr": {
+            "style": {}
+          }
+        },
+        "15": {
+          "title": "Activity Reports",
+          "ideas": {
+            "1": {
+              "title": "Importer",
+              "ideas": {
+                "1": {
+                  "title": "ESPP Importer Control",
+                  "id": 173,
+                  "attr": {
+                    "style": {}
+                  }
+                }
+              },
+              "id": 172,
+              "attr": {
+                "style": {}
+              }
+            },
+            "2": {
+              "title": "Miscellaneous",
+              "ideas": {
+                "1": {
+                  "title": "Activate Offering Period Results",
+                  "id": 175,
+                  "attr": {
+                    "style": {}
+                  }
+                }
+              },
+              "id": 174,
+              "attr": {
+                "style": {}
+              }
+            },
+            "3": {
+              "title": "Participant Statements",
+              "ideas": {
+                "1": {
+                  "title": "ESPP Participant Summary",
+                  "id": 177,
+                  "attr": {
+                    "style": {}
+                  }
+                }
+              },
+              "id": 176,
+              "attr": {
+                "style": {}
+              }
+            },
+            "4": {
+              "title": "Tax Reporting",
+              "ideas": {
+                "1": {
+                  "title": "ESPP Dispositions Information Statement",
+                  "id": 179,
+                  "attr": {
+                    "style": {}
+                  }
+                },
+                "2": {
+                  "title": "ESPP Purchases Information Statement",
+                  "id": 180,
+                  "attr": {
+                    "style": {}
+                  }
+                },
+                "3": {
+                  "title": "IRS Reporting Form 3922, 423 ESPP Transfers",
+                  "id": 181,
+                  "attr": {
+                    "style": {}
+                  }
+                }
+              },
+              "id": 178,
+              "attr": {
+                "style": {}
+              }
+            },
+            "5": {
+              "title": "Transfer Agent",
+              "ideas": {
+                "1": {
+                  "title": "Share Issuance Request - ESPP",
+                  "id": 183,
+                  "attr": {
+                    "style": {}
+                  }
+                }
+              },
+              "id": 182,
+              "attr": {
+                "style": {}
+              }
+            }
+          },
+          "id": 171,
+          "attr": {
+            "style": {}
+          }
+        },
+        "16": {
+          "title": "Company Parameters Report",
+          "ideas": {
+            "1": {
+              "title": "FAS Setup",
+              "ideas": {
+                "1": {
+                  "title": "ESPP FAS Parameter Report",
+                  "id": 186,
+                  "attr": {
+                    "style": {}
+                  }
+                }
+              },
+              "id": 185,
+              "attr": {
+                "style": {}
+              }
+            }
+          },
+          "id": 184,
+          "attr": {
+            "style": {}
+          }
+        },
+        "17": {
+          "title": "Processes & Upload Reports",
+          "ideas": {
+            "1": {
+              "title": "Contributions",
+              "ideas": {
+                "1": {
+                  "title": "Contributions",
+                  "id": 189,
+                  "attr": {
+                    "style": {}
+                  }
+                },
+                "2": {
+                  "title": "Contributions Refunded",
+                  "id": 190,
+                  "attr": {
+                    "style": {}
+                  }
+                },
+                "3": {
+                  "title": "Estimated Annual Contributions",
+                  "id": 191,
+                  "attr": {
+                    "style": {}
+                  }
+                },
+                "4": {
+                  "title": "Participant Transactions",
+                  "id": 192,
+                  "attr": {
+                    "style": {}
+                  }
+                }
+              },
+              "id": 188,
+              "attr": {
+                "style": {}
+              }
+            },
+            "2": {
+              "title": "Dispositions",
+              "ideas": {
+                "1": {
+                  "title": "Disposition & Lot Detail",
+                  "id": 194,
+                  "attr": {
+                    "style": {}
+                  }
+                },
+                "2": {
+                  "title": "Disposition Detail",
+                  "id": 195,
+                  "attr": {
+                    "style": {}
+                  }
+                },
+                "3": {
+                  "title": "Disposition Status",
+                  "id": 196,
+                  "attr": {
+                    "style": {}
+                  }
+                },
+                "4": {
+                  "title": "Disposition Summary",
+                  "id": 197,
+                  "attr": {
+                    "style": {}
+                  }
+                }
+              },
+              "id": 193,
+              "attr": {
+                "style": {}
+              }
+            },
+            "3": {
+              "title": "Eligibility",
+              "ideas": {
+                "1": {
+                  "title": "ESPP Data Check",
+                  "id": 199,
+                  "attr": {
+                    "style": {}
+                  }
+                },
+                "2": {
+                  "title": "ESPP Eligibility Report",
+                  "id": 200,
+                  "attr": {
+                    "style": {}
+                  }
+                }
+              },
+              "id": 198,
+              "attr": {
+                "style": {}
+              }
+            },
+            "4": {
+              "title": "Enrollment/Elections",
+              "ideas": {
+                "1": {
+                  "title": "ESPP Election Report",
+                  "id": 202,
+                  "attr": {
+                    "style": {}
+                  }
+                },
+                "2": {
+                  "title": "ESPP Elections Report for Payroll",
+                  "id": 203,
+                  "attr": {
+                    "style": {}
+                  }
+                },
+                "3": {
+                  "title": "Enrollment - Current",
+                  "id": 204,
+                  "attr": {
+                    "style": {}
+                  }
+                },
+                "4": {
+                  "title": "Enrollment - Historical",
+                  "id": 205,
+                  "attr": {
+                    "style": {}
+                  }
+                }
+              },
+              "id": 201,
+              "attr": {
+                "style": {}
+              }
+            },
+            "5": {
+              "title": "Purchase",
+              "ideas": {
+                "1": {
+                  "title": "25k Limit Summary YTD",
+                  "id": 207,
+                  "attr": {
+                    "style": {}
+                  }
+                },
+                "2": {
+                  "title": "25k Limit Summary, Rolling to OP",
+                  "id": 208,
+                  "attr": {
+                    "style": {}
+                  }
+                },
+                "3": {
+                  "title": "Purchase Confirmations",
+                  "id": 209,
+                  "attr": {
+                    "style": {}
+                  }
+                },
+                "4": {
+                  "title": "Purchase Period and Reserves Report",
+                  "id": 210,
+                  "attr": {
+                    "style": {}
+                  }
+                },
+                "5": {
+                  "title": "Purchases",
+                  "id": 211,
+                  "attr": {
+                    "style": {}
+                  }
+                },
+                "6": {
+                  "title": "RefundSummary",
+                  "id": 212,
+                  "attr": {
+                    "style": {}
+                  }
+                }
+              },
+              "id": 206,
+              "attr": {
+                "style": {}
+              }
+            }
+          },
+          "id": 187,
+          "attr": {
+            "style": {}
+          }
+        }
+      },
+      "id": 114,
+      "attr": {
+        "style": {
+          "background": "#00ff00"
+        },
+        "collapsed": true
+      }
+    },
+    "-17": {
+      "title": "Employee",
+      "ideas": {
+        "1": {
+          "title": "Home",
+          "ideas": {
+            "1": {
+              "title": "1st Time ESPP Participant Self-Enrollment",
+              "id": 215,
+              "attr": {
+                "style": {}
+              }
+            },
+            "2": {
+              "title": "Exercise Wizard",
+              "id": 216,
+              "attr": {
+                "style": {}
+              }
+            },
+            "3": {
+              "title": "ESPP Wizard",
+              "id": 217,
+              "attr": {
+                "style": {}
+              }
+            },
+            "4": {
+              "title": "To Do List",
+              "id": 218,
+              "attr": {
+                "style": {}
+              }
+            }
+          },
+          "id": 214,
+          "attr": {
+            "style": {}
+          }
+        },
+        "2": {
+          "title": "My Portfolio",
+          "ideas": {
+            "1": {
+              "title": "Options",
+              "id": 220,
+              "attr": {
+                "style": {}
+              }
+            },
+            "2": {
+              "title": "Restricted Awards",
+              "id": 221,
+              "attr": {
+                "style": {}
+              }
+            }
+          },
+          "id": 219,
+          "attr": {
+            "style": {}
+          }
+        },
+        "3": {
+          "title": "Transaction History",
+          "ideas": {
+            "1": {
+              "title": "Options",
+              "id": 223,
+              "attr": {
+                "style": {}
+              }
+            },
+            "2": {
+              "title": "Restricted Awards",
+              "id": 224,
+              "attr": {
+                "style": {}
+              }
+            }
+          },
+          "id": 222,
+          "attr": {
+            "style": {}
+          }
+        },
+        "4": {
+          "title": "Statements",
+          "ideas": {
+            "1": {
+              "title": "Portfolio Statement",
+              "id": 226,
+              "attr": {
+                "style": {}
+              }
+            },
+            "2": {
+              "title": "Transaction Statements",
+              "id": 227,
+              "attr": {
+                "style": {}
+              }
+            },
+            "3": {
+              "title": "Tax Forms",
+              "id": 228,
+              "attr": {
+                "style": {}
+              }
+            }
+          },
+          "id": 225,
+          "attr": {
+            "style": {}
+          }
+        },
+        "5": {
+          "title": "Document Library",
+          "id": 229,
+          "attr": {
+            "style": {}
+          }
+        },
+        "6": {
+          "title": "My Profile",
+          "id": 230,
+          "attr": {
+            "style": {}
+          }
+        }
+      },
+      "id": 213,
+      "attr": {
+        "style": {
+          "background": "#00ff00"
+        },
+        "collapsed": true
+      }
+    },
+    "-18": {
+      "title": "Stock Option Admin ",
+      "ideas": {
+        "1": {
+          "title": "FAS123R",
+          "id": 232,
+          "attr": {
+            "style": {}
+          }
+        },
+        "2": {
+          "title": "Maintenance",
+          "id": 233,
+          "attr": {
+            "style": {}
+          }
+        },
+        "3": {
+          "title": "Participants",
+          "id": 234,
+          "attr": {
+            "style": {}
+          }
+        },
+        "4": {
+          "title": "Transactions",
+          "id": 235,
+          "attr": {
+            "style": {}
+          }
+        },
+        "5": {
+          "title": "Reports",
+          "id": 236,
+          "attr": {
+            "style": {}
+          }
+        },
+        "6": {
+          "title": "Help",
+          "id": 237,
+          "attr": {
+            "style": {}
+          }
+        }
+      },
+      "id": 231,
+      "attr": {
+        "style": {
+          "background": "#00CC00"
+        },
+        "progress": "passing"
+      }
+    },
+    "-19": {
+      "title": "ESPP Plan Admin",
+      "ideas": {
+        "1": {
+          "title": "Maintenance",
+          "ideas": {
+            "1": {
+              "title": "Import Status ",
+              "id": 240,
+              "attr": {
+                "style": {
+                  "background": "#00CC00"
+                },
+                "progress": "passing"
+              }
+            },
+            "2": {
+              "title": "Online Registration",
+              "id": 241,
+              "attr": {
+                "style": {
+                  "background": "#00CC00"
+                },
+                "progress": "passing"
+              }
+            },
+            "3": {
+              "title": "Plan Maintenance",
+              "ideas": {
+                "1": {
+                  "title": "New Plan",
+                  "ideas": {
+                    "1": {
+                      "title": "Set Election Parameters",
+                      "id": 244,
+                      "attr": {
+                        "style": {
+                          "background": "#00CC00"
+                        },
+                        "progress": "passing"
+                      }
+                    },
+                    "2": {
+                      "title": "Update Reserve Shares",
+                      "id": 245,
+                      "attr": {
+                        "style": {
+                          "background": "#00CC00"
+                        },
+                        "progress": "passing"
+                      }
+                    }
+                  },
+                  "id": 243,
+                  "attr": {
+                    "style": {
+                      "background": "#00CC00"
+                    },
+                    "progress": "passing"
+                  }
+                },
+                "2": {
+                  "title": "Delete Plan",
+                  "id": 246,
+                  "attr": {
+                    "style": {
+                      "background": "#00CC00"
+                    },
+                    "progress": "passing"
+                  }
+                },
+                "3": {
+                  "title": "Print Plan List",
+                  "id": 247,
+                  "attr": {
+                    "style": {
+                      "background": "#00CC00"
+                    },
+                    "progress": "passing"
+                  }
+                }
+              },
+              "id": 242,
+              "attr": {
+                "style": {
+                  "background": "#00CC00"
+                },
+                "progress": "passing"
+              }
+            },
+            "4": {
+              "title": "Offering Periods",
+              "ideas": {
+                "1": {
+                  "title": "New OP",
+                  "ideas": {
+                    "1": {
+                      "title": "View Enrollees",
+                      "id": 250,
+                      "attr": {
+                        "style": {
+                          "background": "#00CC00"
+                        },
+                        "progress": "passing"
+                      }
+                    },
+                    "2": {
+                      "title": "Activate OP",
+                      "id": 251,
+                      "attr": {
+                        "style": {
+                          "background": "#00CC00"
+                        },
+                        "progress": "passing"
+                      }
+                    },
+                    "3": {
+                      "title": "View/Update Election Parameters",
+                      "id": 252,
+                      "attr": {
+                        "style": {
+                          "background": "#00CC00"
+                        },
+                        "progress": "passing"
+                      }
+                    }
+                  },
+                  "id": 249,
+                  "attr": {
+                    "style": {
+                      "background": "#00CC00"
+                    },
+                    "progress": "passing"
+                  }
+                },
+                "2": {
+                  "title": "Delete OP",
+                  "id": 253,
+                  "attr": {
+                    "style": {
+                      "background": "#00CC00"
+                    },
+                    "progress": "passing"
+                  }
+                },
+                "3": {
+                  "title": "Print OP List",
+                  "id": 254,
+                  "attr": {
+                    "style": {
+                      "background": "#00CC00"
+                    },
+                    "progress": "passing"
+                  }
+                }
+              },
+              "id": 248,
+              "attr": {
+                "style": {
+                  "background": "#00CC00"
+                },
+                "progress": "passing"
+              }
+            },
+            "5": {
+              "title": "Eligibility",
+              "ideas": {
+                "1": {
+                  "title": "Add Eligibility",
+                  "id": 256,
+                  "attr": {
+                    "style": {
+                      "background": "#00CC00"
+                    },
+                    "progress": "passing"
+                  }
+                },
+                "2": {
+                  "title": "Delete Eligibility",
+                  "id": 257,
+                  "attr": {
+                    "style": {
+                      "background": "#00CC00"
+                    },
+                    "progress": "passing"
+                  }
+                },
+                "3": {
+                  "title": "Print Eligibility List",
+                  "id": 258,
+                  "attr": {
+                    "style": {
+                      "background": "#00CC00"
+                    },
+                    "progress": "passing"
+                  }
+                }
+              },
+              "id": 255,
+              "attr": {
+                "style": {
+                  "background": "#00CC00"
+                },
+                "progress": "passing"
+              }
+            },
+            "6": {
+              "title": "Salary Information",
+              "ideas": {
+                "1": {
+                  "title": "New Salary",
+                  "id": 260,
+                  "attr": {
+                    "style": {
+                      "background": "#00CC00"
+                    },
+                    "progress": "passing"
+                  }
+                },
+                "2": {
+                  "title": "Delete Salary",
+                  "id": 261,
+                  "attr": {
+                    "style": {
+                      "background": "#00CC00"
+                    },
+                    "progress": "passing"
+                  }
+                },
+                "3": {
+                  "title": "Print Salary List",
+                  "id": 262,
+                  "attr": {
+                    "style": {
+                      "background": "#00CC00"
+                    },
+                    "progress": "passing"
+                  }
+                }
+              },
+              "id": 259,
+              "attr": {
+                "style": {
+                  "background": "#00CC00"
+                },
+                "progress": "passing"
+              }
+            },
+            "7": {
+              "title": "Broker Interface",
+              "ideas": {
+                "1": {
+                  "title": "UBS ESPP Interface Files",
+                  "ideas": {
+                    "1": {
+                      "title": "Transfer Log",
+                      "id": 265,
+                      "attr": {
+                        "style": {
+                          "background": "#00CC00"
+                        },
+                        "progress": "passing"
+                      }
+                    },
+                    "2": {
+                      "title": "Employee Account Files",
+                      "ideas": {
+                        "1": {
+                          "title": "Download",
+                          "id": 267,
+                          "attr": {
+                            "style": {
+                              "background": "#00CC00"
+                            },
+                            "progress": "passing"
+                          }
+                        },
+                        "2": {
+                          "title": "FTP",
+                          "id": 268,
+                          "attr": {
+                            "style": {
+                              "background": "#00CC00"
+                            },
+                            "progress": "passing"
+                          }
+                        }
+                      },
+                      "id": 266,
+                      "attr": {
+                        "style": {
+                          "background": "#00CC00"
+                        },
+                        "progress": "passing"
+                      }
+                    },
+                    "3": {
+                      "title": "Eligibility Files",
+                      "ideas": {
+                        "1": {
+                          "title": "Download",
+                          "id": 270,
+                          "attr": {
+                            "style": {
+                              "background": "#00CC00"
+                            },
+                            "progress": "passing"
+                          }
+                        },
+                        "2": {
+                          "title": "FTP",
+                          "id": 271,
+                          "attr": {
+                            "style": {
+                              "background": "#00CC00"
+                            },
+                            "progress": "passing"
+                          }
+                        }
+                      },
+                      "id": 269,
+                      "attr": {
+                        "style": {
+                          "background": "#00CC00"
+                        },
+                        "progress": "passing"
+                      }
+                    },
+                    "4": {
+                      "title": "Purchase Files",
+                      "ideas": {
+                        "1": {
+                          "title": "Download",
+                          "id": 273,
+                          "attr": {
+                            "style": {
+                              "background": "#00CC00"
+                            },
+                            "progress": "passing"
+                          }
+                        },
+                        "2": {
+                          "title": "FTP",
+                          "id": 274,
+                          "attr": {
+                            "style": {
+                              "background": "#00CC00"
+                            },
+                            "progress": "passing"
+                          }
+                        }
+                      },
+                      "id": 272,
+                      "attr": {
+                        "style": {
+                          "background": "#00CC00"
+                        },
+                        "progress": "passing"
+                      }
+                    }
+                  },
+                  "id": 264,
+                  "attr": {
+                    "style": {
+                      "background": "#00CC00"
+                    },
+                    "progress": "passing"
+                  }
+                },
+                "2": {
+                  "title": "Import UBS ESPP Files ",
+                  "ideas": {
+                    "1": {
+                      "title": "Enrollment",
+                      "ideas": {
+                        "1": {
+                          "title": "FTP",
+                          "id": 277,
+                          "attr": {
+                            "style": {
+                              "background": "#00CC00"
+                            },
+                            "progress": "passing"
+                          }
+                        },
+                        "2": {
+                          "title": "Manual",
+                          "id": 278,
+                          "attr": {
+                            "style": {
+                              "background": "#00CC00"
+                            },
+                            "progress": "passing"
+                          }
+                        }
+                      },
+                      "id": 276,
+                      "attr": {
+                        "style": {
+                          "background": "#00CC00"
+                        },
+                        "progress": "passing"
+                      }
+                    },
+                    "2": {
+                      "title": "All Disposition",
+                      "ideas": {
+                        "1": {
+                          "title": "FTP",
+                          "id": 280,
+                          "attr": {
+                            "style": {
+                              "background": "#00CC00"
+                            },
+                            "progress": "passing"
+                          }
+                        },
+                        "2": {
+                          "title": "Save Schedule",
+                          "id": 281,
+                          "attr": {
+                            "style": {
+                              "background": "#00CC00"
+                            },
+                            "progress": "passing"
+                          }
+                        },
+                        "3": {
+                          "title": "Manual",
+                          "id": 282,
+                          "attr": {
+                            "style": {
+                              "background": "#00CC00"
+                            },
+                            "progress": "passing"
+                          }
+                        }
+                      },
+                      "id": 279,
+                      "attr": {
+                        "style": {
+                          "background": "#00CC00"
+                        },
+                        "progress": "passing"
+                      }
+                    }
+                  },
+                  "id": 275,
+                  "attr": {
+                    "style": {
+                      "background": "#00CC00"
+                    },
+                    "progress": "passing"
+                  }
+                }
+              },
+              "id": 263,
+              "attr": {
+                "style": {
+                  "background": "#00CC00"
+                },
+                "progress": "passing"
+              }
+            },
+            "8": {
+              "title": "Document Library",
+              "ideas": {
+                "1": {
+                  "title": "New Document",
+                  "id": 284,
+                  "attr": {
+                    "style": {
+                      "background": "#00CC00"
+                    },
+                    "progress": "passing"
+                  }
+                },
+                "2": {
+                  "title": "Delete Document",
+                  "id": 285,
+                  "attr": {
+                    "style": {
+                      "background": "#00CC00"
+                    },
+                    "progress": "passing"
+                  }
+                }
+              },
+              "id": 283,
+              "attr": {
+                "style": {
+                  "background": "#00CC00"
+                },
+                "progress": "passing"
+              }
+            },
+            "9": {
+              "title": "Forfeiture Percentage",
+              "ideas": {
+                "1": {
+                  "title": "New Forfeiture Percentage",
+                  "id": 287,
+                  "attr": {
+                    "style": {
+                      "background": "#00CC00"
+                    },
+                    "progress": "passing"
+                  }
+                },
+                "2": {
+                  "title": "Delete Forfeiture Percentage",
+                  "id": 288,
+                  "attr": {
+                    "style": {
+                      "background": "#00CC00"
+                    },
+                    "progress": "passing"
+                  }
+                }
+              },
+              "id": 286,
+              "attr": {
+                "style": {
+                  "background": "#00CC00"
+                },
+                "progress": "passing"
+              }
+            },
+            "10": {
+              "title": "Volatility Rates",
+              "ideas": {
+                "1": {
+                  "title": "New Volatility Rates",
+                  "id": 290,
+                  "attr": {
+                    "style": {
+                      "background": "#00CC00"
+                    },
+                    "progress": "passing"
+                  }
+                },
+                "2": {
+                  "title": "Delete Volatility Rates",
+                  "id": 291,
+                  "attr": {
+                    "style": {
+                      "background": "#00CC00"
+                    },
+                    "progress": "passing"
+                  }
+                }
+              },
+              "id": 289,
+              "attr": {
+                "style": {
+                  "background": "#00CC00"
+                },
+                "progress": "passing"
+              }
+            },
+            "11": {
+              "title": "Configure Participant Portal",
+              "id": 292,
+              "attr": {
+                "style": {
+                  "background": "#00CC00"
+                },
+                "progress": "passing"
+              }
+            },
+            "12": {
+              "title": "Lookup Table Maintenance",
+              "ideas": {
+                "1": {
+                  "title": "ESPP Subscription Agreement Code ",
+                  "ideas": {
+                    "1": {
+                      "title": "Add",
+                      "id": 295,
+                      "attr": {
+                        "style": {
+                          "background": "#00CC00"
+                        },
+                        "progress": "passing"
+                      }
+                    },
+                    "2": {
+                      "title": "Remove",
+                      "id": 296,
+                      "attr": {
+                        "style": {
+                          "background": "#00CC00"
+                        },
+                        "progress": "passing"
+                      }
+                    }
+                  },
+                  "id": 294,
+                  "attr": {
+                    "style": {
+                      "background": "#00CC00"
+                    },
+                    "progress": "passing"
+                  }
+                }
+              },
+              "id": 293,
+              "attr": {
+                "style": {
+                  "background": "#00CC00"
+                },
+                "progress": "passing"
+              }
+            }
+          },
+          "id": 239,
+          "attr": {
+            "style": {
+              "background": "#00CC00"
+            },
+            "progress": "passing"
+          }
+        },
+        "2": {
+          "title": "Participants",
+          "id": 297,
+          "attr": {
+            "style": {
+              "background": "#00CC00"
+            },
+            "progress": "passing"
+          }
+        },
+        "3": {
+          "title": "Elections",
+          "id": 298,
+          "attr": {
+            "style": {
+              "background": "#00CC00"
+            },
+            "progress": "passing"
+          }
+        },
+        "4": {
+          "title": "Contributions",
+          "id": 299,
+          "attr": {
+            "style": {
+              "background": "#00CC00"
+            },
+            "progress": "passing"
+          }
+        },
+        "5": {
+          "title": "Purchases",
+          "ideas": {
+            "1": {
+              "title": "Purchase Period List",
+              "ideas": {
+                "1": {
+                  "title": "Click a Purchase Period for Detail",
+                  "ideas": {
+                    "1": {
+                      "title": "Process New Purchase",
+                      "ideas": {
+                        "1": {
+                          "title": "Process",
+                          "id": 304,
+                          "attr": {
+                            "style": {
+                              "background": "#00CC00"
+                            },
+                            "progress": "passing"
+                          }
+                        },
+                        "2": {
+                          "title": "Preview",
+                          "id": 305,
+                          "attr": {
+                            "style": {
+                              "background": "#00CC00"
+                            },
+                            "progress": "passing"
+                          }
+                        }
+                      },
+                      "id": 303,
+                      "attr": {
+                        "style": {
+                          "background": "#00CC00"
+                        },
+                        "progress": "passing"
+                      }
+                    },
+                    "2": {
+                      "title": "New Employee Purchase",
+                      "id": 306,
+                      "attr": {
+                        "style": {
+                          "background": "#00CC00"
+                        },
+                        "progress": "passing"
+                      }
+                    },
+                    "3": {
+                      "title": "Delete Selected",
+                      "id": 307,
+                      "attr": {
+                        "style": {
+                          "background": "#00CC00"
+                        },
+                        "progress": "passing"
+                      }
+                    },
+                    "4": {
+                      "title": "Print Purchase List",
+                      "id": 308,
+                      "attr": {
+                        "style": {
+                          "background": "#00CC00"
+                        },
+                        "progress": "passing"
+                      }
+                    }
+                  },
+                  "id": 302,
+                  "attr": {
+                    "style": {
+                      "background": "#00CC00"
+                    },
+                    "progress": "passing"
+                  }
+                }
+              },
+              "id": 301,
+              "attr": {
+                "style": {
+                  "background": "#00CC00"
+                },
+                "progress": "passing"
+              }
+            },
+            "2": {
+              "title": "Purchase List",
+              "ideas": {
+                "1": {
+                  "title": "New Purchase",
+                  "id": 310,
+                  "attr": {
+                    "style": {
+                      "background": "#00CC00"
+                    },
+                    "progress": "passing"
+                  }
+                },
+                "2": {
+                  "title": "Delete Purchase",
+                  "id": 311,
+                  "attr": {
+                    "style": {
+                      "background": "#00CC00"
+                    },
+                    "progress": "passing"
+                  }
+                },
+                "3": {
+                  "title": "Print Purchase",
+                  "id": 312,
+                  "attr": {
+                    "style": {
+                      "background": "#00CC00"
+                    },
+                    "progress": "passing"
+                  }
+                }
+              },
+              "id": 309,
+              "attr": {
+                "style": {
+                  "background": "#00CC00"
+                },
+                "progress": "passing"
+              }
+            }
+          },
+          "id": 300,
+          "attr": {
+            "style": {
+              "background": "#00CC00"
+            },
+            "progress": "passing"
+          }
+        },
+        "6": {
+          "title": "Dispositions",
+          "id": 313,
+          "attr": {
+            "style": {
+              "background": "#00CC00"
+            },
+            "progress": "passing"
+          }
+        },
+        "7": {
+          "title": "Reports",
+          "ideas": {
+            "1": {
+              "title": "Run Reports",
+              "id": 315,
+              "attr": {
+                "style": {
+                  "background": "#00CC00"
+                },
+                "progress": "passing"
+              }
+            },
+            "2": {
+              "title": "Forms",
+              "id": 316,
+              "attr": {
+                "style": {
+                  "background": "#00CC00"
+                },
+                "progress": "passing"
+              }
+            },
+            "3": {
+              "title": "Batch Reporting Console",
+              "id": 317,
+              "attr": {
+                "style": {
+                  "background": "#00CC00"
+                },
+                "progress": "passing"
+              }
+            }
+          },
+          "id": 314,
+          "attr": {
+            "style": {
+              "background": "#00CC00"
+            },
+            "progress": "passing"
+          }
+        },
+        "8": {
+          "title": "Help",
+          "ideas": {
+            "1": {
+              "title": "Documentation",
+              "id": 319,
+              "attr": {
+                "style": {
+                  "background": "#00CC00"
+                },
+                "progress": "passing"
+              }
+            },
+            "2": {
+              "title": "Customer Support Cases",
+              "id": 320,
+              "attr": {
+                "style": {
+                  "background": "#00CC00"
+                },
+                "progress": "passing"
+              }
+            },
+            "3": {
+              "title": "System Help",
+              "id": 321,
+              "attr": {
+                "style": {
+                  "background": "#00CC00"
+                },
+                "progress": "passing"
+              }
+            }
+          },
+          "id": 318,
+          "attr": {
+            "style": {
+              "background": "#00CC00"
+            },
+            "progress": "passing"
+          }
+        }
+      },
+      "id": 238,
+      "attr": {
+        "collapsed": true,
+        "style": {
+          "background": "#00CC00"
+        },
+        "progress": "passing"
+      }
+    },
+    "-20": {
+      "title": "RAI ",
+      "ideas": {
+        "1": {
+          "title": "RAI Employee",
+          "ideas": {
+            "1": {
+              "title": "AIAP Award Information",
+              "id": 324,
+              "attr": {
+                "style": {
+                  "background": "#00CC00"
+                },
+                "progress": "passing"
+              }
+            },
+            "2": {
+              "title": "Compensation Calculator",
+              "id": 325,
+              "attr": {
+                "style": {
+                  "background": "#00CC00"
+                },
+                "progress": "passing"
+              }
+            }
+          },
+          "id": 323,
+          "attr": {
+            "style": {
+              "background": "#00CC00"
+            },
+            "progress": "passing"
+          }
+        },
+        "2": {
+          "title": "RAI LTIP",
+          "ideas": {
+            "1": {
+              "title": "LTI Dividend Tax Overrides",
+              "id": 327,
+              "attr": {
+                "style": {
+                  "background": "#00CC00"
+                },
+                "progress": "passing"
+              }
+            },
+            "2": {
+              "title": "Transactions",
+              "ideas": {
+                "1": {
+                  "title": "Awards",
+                  "id": 329,
+                  "attr": {
+                    "style": {
+                      "background": "#00CC00"
+                    },
+                    "progress": "passing"
+                  }
+                }
+              },
+              "id": 328,
+              "attr": {
+                "style": {
+                  "background": "#00CC00"
+                },
+                "progress": "passing"
+              }
+            },
+            "3": {
+              "title": "AIAP and Comp Calculator",
+              "ideas": {
+                "1": {
+                  "title": "Compensation Calculator",
+                  "id": 331,
+                  "attr": {
+                    "style": {
+                      "background": "#00CC00"
+                    },
+                    "progress": "passing"
+                  }
+                }
+              },
+              "id": 330,
+              "attr": {
+                "style": {
+                  "background": "#00CC00"
+                },
+                "progress": "passing"
+              }
+            }
+          },
+          "id": 326,
+          "attr": {
+            "style": {
+              "background": "#00CC00"
+            },
+            "progress": "passing"
+          }
+        }
+      },
+      "id": 322,
+      "attr": {
+        "collapsed": true,
+        "style": {
+          "background": "#00CC00"
+        },
+        "progress": "passing"
+      }
+    }
+  },
+  "formatVersion": 2,
+  "id": 1,
+  "resources": {},
+  "links": [],
+  "attr": {
+    "progress-statuses": {
+      "1": {
+        "description": "Not Started",
+        "priority": "1"
+      },
+      "failure": {
+        "description": "Blocked",
+        "style": {
+          "background": "#FF3300"
+        },
+        "priority": "999"
+      },
+      "in-progress": {
+        "description": "In Progress",
+        "style": {
+          "background": "#FFCC00"
+        },
+        "priority": "2"
+      },
+      "passing": {
+        "description": "Completed",
+        "style": {
+          "background": "#00CC00"
+        }
+      }
+    },
+    "style": {},
+    "progress": "1"
+  }
+}
